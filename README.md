@@ -1,2 +1,2 @@
-# outfit-recommender
-outfit-recommender
+# food-recommender
+food-recommender
